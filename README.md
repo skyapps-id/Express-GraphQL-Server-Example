@@ -1,4 +1,4 @@
-# GraphQL Server Example
+# Express GraphQL Server Example
 
 
 ### Installation
